@@ -3,6 +3,8 @@ import random
 
 class Utilities:
 
+    #Quitar el valor 0 de la fórmula.
+
     def random_generator(nVariables, forLen, clausLen):
         formula = []
         # print("Venga, la fórmula en estado original ", formula)
